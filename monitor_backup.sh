@@ -8,11 +8,6 @@
 #
 
 # ------------------------------ SETTINGS --------------------------------------
-# Oracle environment settings (could be parametrized)
-ORACLE_ORATAB="/etc/oratab"
-
-# Temporary work file (will be removed automatically)
-TEMP_FILE="/tmp/check_ora_blocking_session_$$.tmp"
 
 # Nagios plugin return values
 STATE_OK=0
