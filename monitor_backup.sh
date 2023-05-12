@@ -2,7 +2,7 @@
 # 
 # Nagios plugin to check Cassandra backup.
 #
-# $Id: check_cas_backup_,v 1.0 2022/5/12 10:00:00 $
+# $Id: check_cas_backup_,v 1.0 2023/05/12 10:00:00 $
 #
 # Copyright (C) 2023  DUCTH DBA.
 #
